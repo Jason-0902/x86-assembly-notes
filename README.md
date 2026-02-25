@@ -120,3 +120,7 @@
 ## 更新狀態
 
 持續更新中。
+
+## License
+
+This project is licensed under the MIT License.
