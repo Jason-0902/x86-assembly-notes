@@ -1,7 +1,5 @@
 # x86-assembly-notes
 
-> 「抽象會騙人，Assembly 不會。」
-
 這個 repository 紀錄我學習 x86-64 Assembly、底層原理與 Reverse Engineering 思維的筆記整理。
 
 目標不是只會寫 C / Python，
